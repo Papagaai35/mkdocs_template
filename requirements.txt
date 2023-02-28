@@ -1,0 +1,9 @@
+mkdocs
+mkdocstrings
+mkdocstrings-python
+mkdocs-gen-files
+mkdocs-literate-nav
+markdown
+pygments
+pymdown-extensions
+mkdocs-material

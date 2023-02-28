@@ -4,6 +4,8 @@ nav:
     - Home:
         - Overview: index.md
     - Code Reference: reference/
+watch:
+    - src
 
 theme:
     name: material
